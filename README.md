@@ -229,10 +229,12 @@ By using this callback, on every epoch_change, the inference procedure can be ca
  for 6 images in <b>mini_test</b> folder. This will help you confirm how the predicted mask changes 
  at each epoch during your training process.<br> 
 <br> 
+<!--
 As shown below, early in the model training, the predicted masks from our UNet segmentation model showed 
 discouraging results.
  However, as training progressed through the epochs, the predictions gradually improved. 
  <br> 
+-->
 <br>
 <b>Epoch_change_inference output at starting (epoch 1,2,3)</b><br>
 <img src="./projects/TensorFlowFlexUNet/3D-CT-Kidney-Tumor/asset/epoch_change_infer_at_start.png" width="1024" height="auto"><br>
