@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-3D-CT-Kidney-Tumor (2026/05/07)</h2>
 Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <b>Liver Tumor (2 classes)</b> based on 
+This is the first experiment of Image Segmentation for <b>3D-CT-Kidney-Tumor (3 classes)</b> based on 
 our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>), and a PNG
  <a href="https://drive.google.com/file/d/1T8EW7ip9XDVstkREqQ3zljYWvzRlWHYn/view?usp=sharing">
