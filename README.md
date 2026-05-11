@@ -276,7 +276,7 @@ Evaluation console output:<br>
 <br><br>Image-Segmentation-3D-CT-Kidney-Tumor
 
 <a href="./projects/TensorFlowFlexUNet/3D-CT-Kidney-Tumor/evaluation.csv">evaluation.csv</a><br>
-The loss (categorical_crossentropy) to this <b>3D-CT-Kidney-Tumor/test</b> was not low and dice_coef_multiclass not high as shown below.
+The loss (categorical_crossentropy) to this <b>3D-CT-Kidney-Tumor/test</b> was very low and dice_coef_multiclass very high as shown below.
 <br>
 <pre>
 categorical_crossentropy,0.0031
