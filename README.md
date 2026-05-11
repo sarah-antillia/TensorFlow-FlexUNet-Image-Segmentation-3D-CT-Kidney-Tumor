@@ -247,7 +247,7 @@ discouraging results.
 <img src="./projects/TensorFlowFlexUNet/3D-CT-Kidney-Tumor/asset/epoch_change_infer_at_end.png" width="1024" height="auto"><br>
 <br>
 
-In this experiment, the training process was stopped at epoch 46 by EarlyStopping callback.<br><br>
+In this experiment, the training process was stopped at epoch 34 by EarlyStopping callback.<br><br>
 <img src="./projects/TensorFlowFlexUNet/3D-CT-Kidney-Tumor/asset/train_console_output_at_epoch34.png" width="1024" height="auto"><br>
 <br>
 
